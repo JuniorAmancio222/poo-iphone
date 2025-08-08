@@ -1,3 +1,12 @@
+# 📱 Desafio POO - iPhone
+
+Modelagem e implementação das funcionalidades do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+---
+
+## 🎯 Diagrama UML
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         <<interface>>
